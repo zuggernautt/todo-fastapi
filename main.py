@@ -21,6 +21,7 @@ def create_task(task:Task):
 
 @app.get('/read_one_task')
 
+@app.get('/update_task/')
 
     
 
